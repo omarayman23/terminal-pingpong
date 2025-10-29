@@ -1,7 +1,7 @@
 # terminal-pingpong
 Play single player AND multi player ping pong on ur terminal with friends!
 # How to set-up.
-- STEP1, create a file named pingpong in ur desktop and add these game_client.py & game_server.py
+- STEP1, create a file named pingpong in ur desktop and add these files attached in the github: game_client.py & game_server.py
 - STEP2, open ur terminal and change the directory to ping pong: cd Desktop/pingpong
 - STEP3, install websockets: For macOS(pip3 install websocket) for windows (pip install websockets)
 - ### IF THAT DOESNT WORK FOLLOW THESE STEPS:
